@@ -3,9 +3,10 @@
 # Hi, I'm Kucing Pungut 
 
 **IT Delivery | Project Manager | Software Engineer**
-*Abimanyu Eka Prasetya*
 
-Turning ideas into working software, one sprint at a time 
+*Abimanyu Eka*
+
+cat is always my fav animals
 
 </div>
 
@@ -22,7 +23,7 @@ Turning ideas into working software, one sprint at a time
 
 ## About Me
 
-- Currently working on **delivery & project management** while staying hands-on with code
+- Currently working on **delivery & project management** while staying hands on with code
 - Exploring more of **React** and clean software architecture
 - Ask me about **project delivery, workflow automation, or web dev**
 - Fun fact: I automate my own GitHub profile with GitHub Actions (yes, this one included)
@@ -73,5 +74,5 @@ Turning ideas into working software, one sprint at a time
 ###
 
 <div align="center">
-  <sub>⭐ Thanks for stopping by — feel free to explore my repos!</sub>
+  <sub> Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
