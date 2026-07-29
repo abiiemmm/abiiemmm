@@ -26,7 +26,7 @@ cat is always my fav animals
 - Currently working on **delivery & project management** while staying hands on with code
 - Exploring more of **React** and clean software architecture
 - Ask me about **project delivery, workflow automation, or web dev**
-- Fun fact: I automate my own GitHub profile with GitHub Actions (yes, this one included)
+- Fun fact: I automate my own GitHub profile with GitHub Actions (yes, this one included) XD
 
 ###
 
@@ -38,7 +38,7 @@ cat is always my fav animals
 
 ###
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -54,7 +54,7 @@ cat is always my fav animals
 
 ###
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:GANTI_INI@gmail.com" target="_blank">
